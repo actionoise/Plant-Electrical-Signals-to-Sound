@@ -1,7 +1,7 @@
 # ESP8266 Plant Signals to Audio
 
 A simple DIY experiment to read small electrical signal variations from a mint plant using homemade electrodes,
-Here The video  of electrodes: https://studio.youtube.com/video/zhUo6wgOafc/edit
+Here The video  of electrodes: https://studio.youtube.com/video/zhUo6wgOafc
 
 an ADS1115 analog-to-digital converter, and an ESP8266.  
 The signal is then converted into an audible frequency on GPIO14.
